@@ -10,3 +10,19 @@ body {
     width: 80%;
     margin: 0 auto;
 }
+header {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    padding: 20px 0;
+}
+
+header .logo img {
+    max-height: 40px;
+}
+
+header nav a {
+    color: #E5E7EB;
+    margin: 0 15px;
+    text-decoration: none;
+    font-size: 18px;
+}
