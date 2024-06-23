@@ -24,8 +24,11 @@ header {
 }
 
 .logo img {
-    max-width: 100px;
+    width: 150px;  
+    height: 100px; 
+    object-fit: contain;
 }
+
 
 nav a {
     color: #fff;
